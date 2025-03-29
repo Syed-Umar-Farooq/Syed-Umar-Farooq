@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai development, Game Development, Front-end Development 
 - 🌱 I’m currently learning ~ 😐 Nothing
 - 📫 How to reach me It's a Seecret
-- ⚡ Fun fact: A programer boy with a little age 
+- ⚡ Fun fact: A programer boy in a little age 
 
 <!---
 Syed-Umar-Farooq/Syed-Umar-Farooq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
