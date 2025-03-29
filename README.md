@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Syed-Umar-Farooq
 - 👀 I’m interested in Ai development, Game Development, Front-end Development 
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ~ 😐 Nothing
 - 📫 How to reach me It's a Seecret
-- 😄 Pronouns: ...
 - ⚡ Fun fact: A programer boy with a little age 
 
 <!---
